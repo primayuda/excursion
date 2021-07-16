@@ -17,18 +17,17 @@ h2 {
     margin: 20px;
 }
 
-a {
-    display: flex;
-    justify-content: center;
-    color: aquamarine;
-    font-size: 16px;
-}
-
 footer {
     color: grey;
     text-align: right;
 }
 
+.cta {
+    display: flex;
+    justify-content: center;
+    color: aquamarine;
+    font-size: 16px;
+}
 .product-video {
     margin: 2% auto;
 }
